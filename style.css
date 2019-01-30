@@ -1,0 +1,43 @@
+.bg-blue {
+  background: #3079AB;
+  color: white;
+
+}
+.bg-gray{
+    background: lightgrey;
+    color: black;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+}
+.container{
+    size: 50%
+
+}
+#first{
+    text-align: center;
+}
+#second{
+    text-align: center;
+}
+.card-white{
+    text-align: left;
+   
+    
+}
+p{
+    text-align: left;
+
+}
+
+.word-cont{
+     text-overflow: ellipsis;
+    overflow: hidden;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+
+}
